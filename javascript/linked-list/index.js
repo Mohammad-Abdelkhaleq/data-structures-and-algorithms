@@ -1,7 +1,13 @@
 'use strict';
-
-class LinkedList {
-
-}
-
-module.exports = LinkedList;
+let linkedList= require('./src/linked-list');
+let ll = new linkedList();
+ll.insert(1);
+ll.insert(2);
+ll.insert(3);
+ll.insert(4);
+ll.insert(5);
+let string=ll.toString();
+console.log(ll);
+console.log(string);
+console.log(ll.includes(3));
+ console.log(ll.includes(6));
