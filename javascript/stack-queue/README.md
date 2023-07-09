@@ -1,4 +1,4 @@
-## the was now whiteboard required ! 
+## there was now whiteboard required ! 
 this is the test 
 ![Alt text](image.png)
 
