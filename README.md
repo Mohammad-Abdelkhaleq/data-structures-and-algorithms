@@ -18,3 +18,5 @@
 [class 12 code challange](./javascript/class12-stack-queue-animal-shelter/README.md)
 
 [class 13 code challange](./javascript/class13-validate-brackets/README.md)
+
+[class 16 code challange](./javascript/tree-max/README.md)
