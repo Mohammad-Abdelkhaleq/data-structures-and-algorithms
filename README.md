@@ -20,3 +20,5 @@
 [class 13 code challange](./javascript/class13-validate-brackets/README.md)
 
 [class 16 code challange](./javascript/tree-max/README.md)
+
+[class 17 code challange](./javascript/class17-tree-breadth-first/README.md)

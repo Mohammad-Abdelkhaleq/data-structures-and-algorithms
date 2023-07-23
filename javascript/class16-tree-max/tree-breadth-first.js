@@ -93,6 +93,58 @@ class binarySearch extends binaryTree {
         return max;
     }
 
+    // breadthFirst(){
+    //     let result = [];
+    //     let level=0;
+    //     let pointer = this.root;
+    //     let traverse = (node) => {
+    //         if (node.left||node.right) {
+    //             result.push(node.value);
+    //             level++;
+    //             if(node.left){
+    //                 pointer = node.left;
+    //                 traverse(pointer);
+    //             }
+    //             if(node.right){
+    //                 pointer = node.right;
+    //                 traverse(pointer);
+    //             }
+    //         }
+           
+    //     }
+    //     traverse(this.root);
+    //     return result;
+    // }
 
+
+    breadthFirst(){
+        let result = [];
+        let queue = [];
+        let current = this.root;
+        queue.push(current);
+        while(queue.length){
+            current = queue.shift();
+            result.push(current.value);
+            if(current.left) queue.push(current.left);
+            if(current.right) queue.push(current.right);
+        }
+        return result;
+    }
+
+
+    
+    
 }
 
+function oddNumbers() {
+    let result = [];
+    let traverse = (node) => {
+        if(node.value%2!==0){
+            result.push(node.value);
+        }
+        if (node.left) traverse(node.left);
+        if (node.right) traverse(node.right);
+    }
+    traverse(this.root);
+    return result;
+}
