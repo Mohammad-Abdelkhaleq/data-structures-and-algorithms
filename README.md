@@ -31,3 +31,7 @@
 
 
 [class 27 code challange](./javascript/)
+
+[class 28 code challange](./javascript/class-28-mergeSortObjects/README.md)
+
+[class 29 code challange](./javascript/class-28-mergeSortObjects/README.md)
