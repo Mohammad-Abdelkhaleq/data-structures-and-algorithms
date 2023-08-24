@@ -22,3 +22,16 @@
 [class 16 code challange](./javascript/tree-max/README.md)
 
 [class 17 code challange](./javascript/class17-tree-breadth-first/README.md)
+
+[class 18 code challange](./javascript/class18-fuzzbuzz/README.md)
+
+# front end 
+
+[class 26 code challange](./javascript/Insertion-Sort/Insertion-Sort.js)
+
+
+[class 27 code challange](./javascript/)
+
+[class 28 code challange](./javascript/class-28-mergeSortObjects/README.md)
+
+[class 29 code challange](./javascript/class-28-mergeSortObjects/README.md)
