@@ -35,3 +35,12 @@
 [class 28 code challange](./javascript/class-28-mergeSortObjects/README.md)
 
 [class 29 code challange](./javascript/class-28-mergeSortObjects/README.md)
+
+[class 30 code challange](./javascript/class-28-mergeSortObjects/README.md)
+
+[class 31 code challange](./javascript/class31-hashmap-string/README.md)
+
+
+
+
+[class 37 code challange](./javascript/class31-hashmap-string/README.md)
