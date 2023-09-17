@@ -43,4 +43,4 @@
 
 
 
-[class 37 code challange](./javascript/class31-hashmap-string/README.md)
+[class 37 code challange](./javascript/class37-bussinessTrip/README.md)
